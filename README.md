@@ -12,4 +12,6 @@ Here are my top three daily activities!
 Here are other things I like to do!
 - Drink H~2~0
 - ~~Hiking in the National Forest~~
+- Listening to music
+- Do push ups
 ------------------------------------------------
